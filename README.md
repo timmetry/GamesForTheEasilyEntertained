@@ -1,6 +1,8 @@
 # GamesForTheEasilyEntertained
 These are the first games I made over 10 years ago when I was first learning to program as a teenager. 
 
+The source code for most of these is long gone, but all except one was programmed in C++.
+
 Blockade: My first game: a Tetris clone. 
 
 Space Duels: My first attempt at an action game, but it's pretty awful. 
